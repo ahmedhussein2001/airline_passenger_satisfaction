@@ -1,1 +1,1 @@
-# airline_passenger_satisfaction
+I developed a machine learning model to predict airline passenger satisfaction using Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization. I built and optimized Logistic Regression, Decision Tree, and   K-Neighbors models, improving accuracy through feature selection and hyperparameter tuning.
